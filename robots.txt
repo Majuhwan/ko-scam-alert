@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://scam-alert.howlane.com/sitemap.xml
